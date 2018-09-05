@@ -1,10 +1,11 @@
 ## Welcome to GitHub Pages
+# Hannah Eckert's first CS193 Lab!
+A list of favorites:
+- The Friends meme on the first lecture slides _"We were on a break!!"_
+- The great speed with which the TA's reply to emails (thanks)
+- The opportunity to take some time to learn simple skills which will be helpful to my education
 
-I suppose that I'll write something here! 
-
-	woo hoo! Why is this greyed out?  --> Markdown accidentally used .
-I think its because it was indented. 
-        Now for a really really big indent!
+And that looks like a list to me!
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
