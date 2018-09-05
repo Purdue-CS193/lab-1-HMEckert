@@ -1,8 +1,18 @@
 ## Welcome to GitHub Pages
 
+I suppose that I'll write something here! 
+
+	woo hoo! Why is this greyed out?  --> Markdown accidentally used .
+I think its because it was indented. 
+        Now for a really really big indent!
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Section Title
+Ah ha!
+
 
 ### Markdown
 
